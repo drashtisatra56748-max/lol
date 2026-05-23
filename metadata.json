@@ -1,0 +1,6 @@
+{
+  "name": "Heritage Craft",
+  "description": "An elegant e-commerce and discovery platform bridging the gap between ancient Indian craftsmanship and modern digital commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
